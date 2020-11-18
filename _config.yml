@@ -19,6 +19,7 @@ url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://
 remote_theme: daattali/beautiful-jekyll@5.0.0
 plugins:
   - jekyll-feed
+  - jekyll-sitemap
 
 # --- List of links in the navigation bar --- #
 
