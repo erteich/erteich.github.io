@@ -12,7 +12,7 @@ title: "Erin G. Teich"
 author: "Erin G. Teich"
 
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "localhost:4000" # the base hostname & protocol for your site, e.g. http://example.com
+url: "https://erteich.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 
 # # Build settings
 #theme: beautiful-jekyll-theme
