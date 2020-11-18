@@ -6,7 +6,7 @@ layout: home
 # title: Hello
 # subtitle: Hello
 ---
-<img style="margin:0px 50px" align="right" src="face.png" width="27%">
+<img style="margin:0px 50px" align="right" src="face.png" width=270> 
 <div style="text-align: justify">
 I am a postdoctoral researcher in the Complex Systems Lab at University of Pennsylvania.
 I'm interested broadly in the physical mechanisms that govern self-organization on multiple length scales.
