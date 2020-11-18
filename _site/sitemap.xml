@@ -1,22 +1,22 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <urlset xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
 <url>
-<loc>http://localhost:4000/about/</loc>
+<loc>https://erteich.github.io/about/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/cv.html</loc>
+<loc>https://erteich.github.io/cv.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/</loc>
+<loc>https://erteich.github.io/</loc>
 </url>
 <url>
-<loc>http://localhost:4000/publications.html</loc>
+<loc>https://erteich.github.io/publications.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/tags.html</loc>
+<loc>https://erteich.github.io/tags.html</loc>
 </url>
 <url>
-<loc>http://localhost:4000/teich_CV_Nov2020.pdf</loc>
+<loc>https://erteich.github.io/teich_CV_Nov2020.pdf</loc>
 <lastmod>2020-11-18T02:22:46-05:00</lastmod>
 </url>
 </urlset>
