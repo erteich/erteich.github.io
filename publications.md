@@ -23,8 +23,8 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
 
 **2020**
 
-- **Entropic Formation of a Thermodynamically Stable Colloidal Quasicrystal with Negligible Phason Strain**
-	K. Je, S. Lee, **E.G. Teich**, M. Engel, and S.C. Glotzer
+- **Entropic Formation of a Thermodynamically Stable Colloidal Quasicrystal with Negligible Phason Strain**\\
+	K. Je, S. Lee, **E.G. Teich**, M. Engel, and S.C. Glotzer\\
 	*Proceedings of the National Academy of Sciences*
 	<!-- [Link](){: .btn} -->
 
