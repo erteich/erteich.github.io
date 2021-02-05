@@ -10,24 +10,28 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
 
 - **Crystallinity characterization of white matter in the human brain**\\
 	**E.G. Teich**, M. Cieslak, B. Giesbrecht, J.M. Vettel, S.T. Grafton, T.D. Satterthwaite, and D.S. Bassett\\
-	<!-- [PDF](https://arxiv.org/pdf/2010.06644){: .btn} -->
 	<a href="https://arxiv.org/pdf/2010.06644" target="_blank">PDF</a>
 
 - **Crystalline shielding mitigates structural rearrangement and localizes material memory in jammed systems under oscillatory shear**\\
 	**E.G. Teich**, K.L. Galloway, P.E. Arratia, and D.S. Bassett\\
 	<a href="https://arxiv.org/pdf/2004.06065" target="_blank">PDF</a>
 
-- **Shape and Interaction Decoupling for Colloidal Pre-Assembly**\\
+<!-- - **Shape and Interaction Decoupling for Colloidal Pre-Assembly**\\
 	L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
-	<a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a>
+	<a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a> -->
 
 
 **2020**
 
-<!-- - **Entropic Phason Strain Relaxation Mechanism in a Growing Colloidal Quasicrystal**
+- **Entropic Formation of a Thermodynamically Stable Colloidal Quasicrystal with Negligible Phason Strain**
 	K. Je, S. Lee, **E.G. Teich**, M. Engel, and S.C. Glotzer
 	*Proceedings of the National Academy of Sciences*
-	[Link](){: .btn} -->
+	<!-- [Link](){: .btn} -->
+
+- **Combatting Growing Disparities in Citations**\\
+	**E.G. Teich** and D.S. Bassett\\
+	*Physics*\\
+	<a href="https://physics.aps.org/articles/v13/191" target="_blank">Link</a>
 
 - **Particle shape tunes fragility in hard polyhedron glass-formers**\\
 	**E.G. Teich**, G. van Anders, and S.C. Glotzer\\
