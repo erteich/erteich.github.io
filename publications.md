@@ -12,14 +12,16 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
 	**E.G. Teich**, M. Cieslak, B. Giesbrecht, J.M. Vettel, S.T. Grafton, T.D. Satterthwaite, and D.S. Bassett\\
 	<a href="https://arxiv.org/pdf/2010.06644" target="_blank">PDF</a>
 
-- **Crystalline shielding mitigates structural rearrangement and localizes material memory in jammed systems under oscillatory shear**\\
-	**E.G. Teich**, K.L. Galloway, P.E. Arratia, and D.S. Bassett\\
-	<a href="https://arxiv.org/pdf/2004.06065" target="_blank">PDF</a>
-
 <!-- - **Shape and Interaction Decoupling for Colloidal Pre-Assembly**\\
 	L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
 	<a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a> -->
 
+**2021**
+
+- **Crystalline shielding mitigates structural rearrangement and localizes memory in jammed systems under oscillatory shear**\\
+	**E.G. Teich**, K.L. Galloway, P.E. Arratia, and D.S. Bassett\\
+	*Science Advances*\\
+	<a href="https://arxiv.org/pdf/2004.06065" target="_blank">PDF</a>
 
 **2020**
 
