@@ -6,17 +6,22 @@ title: Publications
 You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6xjwAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
 
-**Preprints**
+**Under Review**
+
+- **Shape and Interaction Decoupling for Colloidal Pre-Assembly**\\
+    L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
+    <a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a>
+
+- **Relationships among structure, memory, and flow in sheared disordered materials**\\
+    K.L. Galloway, **E.G. Teich**, X. Ma, C. Kammer, I.R. Graham, N.C. Keim, C. Reina, D.J. Jerolmack, A.G. Yodh, and P.E. Arratia\\
+
+**2021**
 
 - **Crystallinity characterization of white matter in the human brain**\\
     **E.G. Teich**, M. Cieslak, B. Giesbrecht, J.M. Vettel, S.T. Grafton, T.D. Satterthwaite, and D.S. Bassett\\
+    *New Journal of Physics*\\
+    <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac1286" target="_blank">Link</a>
     <a href="https://arxiv.org/pdf/2010.06644" target="_blank">PDF</a>
-
-<!-- - **Shape and Interaction Decoupling for Colloidal Pre-Assembly**\\
-    L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
-    <a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a> -->
-
-**2021**
 
 - **Crystalline shielding mitigates structural rearrangement and localizes memory in jammed systems under oscillatory shear**\\
     **E.G. Teich**, K.L. Galloway, P.E. Arratia, and D.S. Bassett\\
@@ -24,22 +29,22 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
     <a href="https://advances.sciencemag.org/content/7/20/eabe3392" target="_blank">Link</a>
     <a href="https://arxiv.org/pdf/2004.06065v2.pdf" target="_blank">PDF</a>
 
-**2020**
-
 - **Entropic Formation of a Thermodynamically Stable Colloidal Quasicrystal with Negligible Phason Strain**\\
     K. Je, S. Lee, **E.G. Teich**, M. Engel, and S.C. Glotzer\\
     *Proceedings of the National Academy of Sciences*\\
     <a href="https://www.pnas.org/content/118/7/e2011799118" target="_blank">Link</a>
 
-- **Combatting Growing Disparities in Citations**\\
-    **E.G. Teich** and D.S. Bassett\\
-    *Physics*\\
-    <a href="https://physics.aps.org/articles/v13/191" target="_blank">Link</a>
-
 - **Particle shape tunes fragility in hard polyhedron glass-formers**\\
     **E.G. Teich**, G. van Anders, and S.C. Glotzer\\
     *Soft Matter*\\
     <a href="https://pubs.rsc.org/en/content/articlelanding/2020/sm/d0sm01067g#!divAbstract" target="_blank">Link</a>
+
+**2020**
+
+- **Combatting Growing Disparities in Citations**\\
+    **E.G. Teich** and D.S. Bassett\\
+    *Physics*\\
+    <a href="https://physics.aps.org/articles/v13/191" target="_blank">Link</a>
 
 - **The extent and drivers of gender imbalance in neuroscience reference lists**\\
     J.D. Dworkin, K.A. Linn, **E.G. Teich**, P. Zurn, R.T. Shinohara, and D.S. Bassett\\
