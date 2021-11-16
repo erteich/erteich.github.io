@@ -13,7 +13,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
     <a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a>
 
 - **Relationships among structure, memory, and flow in sheared disordered materials**\\
-    K.L. Galloway, **E.G. Teich**, X. Ma, C. Kammer, I.R. Graham, N.C. Keim, C. Reina, D.J. Jerolmack, A.G. Yodh, and P.E. Arratia\\
+    K.L. Galloway, **E.G. Teich**, X. Ma, C. Kammer, I.R. Graham, N.C. Keim, C. Reina, D.J. Jerolmack, A.G. Yodh, and P.E. Arratia
 
 **2021**
 
