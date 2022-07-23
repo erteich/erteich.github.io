@@ -23,7 +23,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
     L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
     *Science Advances*\\
     <a href="https://www.science.org/doi/full/10.1126/sciadv.abm0548" target="_blank">Link</a>
-    <a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a>
+    <a href="https://arxiv.org/abs/1909.10361" target="_blank">PDF</a>
 
 - **Relationships between structure, memory and flow in sheared disordered materials**\\
     K.L. Galloway, **E.G. Teich**, X. Ma, Ch. Kammer, I.R. Graham, N.C. Keim, C. Reina, D.J. Jerolmack, A.G. Yodh, and P.E. Arratia\\
@@ -37,13 +37,13 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
     **E.G. Teich**, M. Cieslak, B. Giesbrecht, J.M. Vettel, S.T. Grafton, T.D. Satterthwaite, and D.S. Bassett\\
     *New Journal of Physics*\\
     <a href="https://iopscience.iop.org/article/10.1088/1367-2630/ac1286" target="_blank">Link</a>
-    <a href="https://arxiv.org/pdf/2010.06644" target="_blank">PDF</a>
+    <a href="https://arxiv.org/abs/2010.06644" target="_blank">PDF</a>
 
 - **Crystalline shielding mitigates structural rearrangement and localizes memory in jammed systems under oscillatory shear**\\
     **E.G. Teich**, K.L. Galloway, P.E. Arratia, and D.S. Bassett\\
     *Science Advances*\\
     <a href="https://advances.sciencemag.org/content/7/20/eabe3392" target="_blank">Link</a>
-    <a href="https://arxiv.org/pdf/2004.06065v2.pdf" target="_blank">PDF</a>
+    <a href="https://arxiv.org/abs/2004.06065v2.pdf" target="_blank">PDF</a>
 
 - **Entropic Formation of a Thermodynamically Stable Colloidal Quasicrystal with Negligible Phason Strain**\\
     K. Je, S. Lee, **E.G. Teich**, M. Engel, and S.C. Glotzer\\
@@ -66,7 +66,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
     J.D. Dworkin, K.A. Linn, **E.G. Teich**, P. Zurn, R.T. Shinohara, and D.S. Bassett\\
     *Nature Neuroscience*\\
     <a href="https://www.nature.com/articles/s41593-020-0658-y" target="_blank">Link</a>
-    <a href="https://arxiv.org/pdf/2001.01002" target="_blank">PDF</a>
+    <a href="https://arxiv.org/abs/2001.01002" target="_blank">PDF</a>
 
 **2019**
 
@@ -74,7 +74,7 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
     W. Zygmunt, **E.G. Teich**, G. van Anders, and S.C. Glotzer\\
     *Physical Review E*\\
     <a href="https://journals.aps.org/pre/abstract/10.1103/PhysRevE.100.032608" target="_blank">Link</a>
-    <a href="https://arxiv.org/pdf/1906.10214" target="_blank">PDF</a>
+    <a href="https://arxiv.org/abs/1906.10214" target="_blank">PDF</a>
 
 - **Computational self-assembly of colloidal crystals from Platonic polyhedral sphere clusters**\\
     R.L. Marson, **E.G. Teich**, J. Dshemuchadse, S.C. Glotzer, and R.G. Larson\\
