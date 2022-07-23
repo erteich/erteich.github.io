@@ -8,12 +8,28 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
 
 **Under Review**
 
-- **Shape and Interaction Decoupling for Colloidal Pre-Assembly**\\
+- **Citation inequity and gendered citation practices in contemporary physics**\\
+    **E.G. Teich**, J.Z. Kim, C.W. Lynn, S.C. Simon, A.A. Klishin, K.P. Szymula, P. Srivastava, L.C. Bassett, P. Zurn, J.D. Dworkin, and D.S. Bassett\\
+    <a href="https://arxiv.org/abs/2112.09047" target="_blank">PDF</a>
+
+**2022**
+
+- **Tuning assembly structures of hard shapes in confinement via interface curvature**\\
+    R. Skye, **E.G. Teich**, and J. Dschemuchadse\\
+    *Soft Matter*\\
+    <a href="https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00545j" target="_blank">Link</a>
+
+- **Shape and interaction decoupling for colloidal preassembly**\\
     L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
+    *Science Advances*\\
+    <a href="https://www.science.org/doi/full/10.1126/sciadv.abm0548" target="_blank">Link</a>
     <a href="https://arxiv.org/pdf/1909.10361" target="_blank">PDF</a>
 
-- **Relationships among structure, memory, and flow in sheared disordered materials**\\
-    K.L. Galloway, **E.G. Teich**, X. Ma, C. Kammer, I.R. Graham, N.C. Keim, C. Reina, D.J. Jerolmack, A.G. Yodh, and P.E. Arratia
+- **Relationships between structure, memory and flow in sheared disordered materials**\\
+    K.L. Galloway, **E.G. Teich**, X. Ma, Ch. Kammer, I.R. Graham, N.C. Keim, C. Reina, D.J. Jerolmack, A.G. Yodh, and P.E. Arratia\\
+    *Nature Physics*\\
+    <a href="https://www.nature.com/articles/s41567-022-01536-9" target="_blank">Link</a>
+    <a href="https://arxiv.org/abs/2105.06610" target="_blank">PDF</a>
 
 **2021**
 
