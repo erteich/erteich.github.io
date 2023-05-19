@@ -8,16 +8,24 @@ You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6
 
 **Under Review**
 
-- **Citation inequity and gendered citation practices in contemporary physics**\\
-    **E.G. Teich**, J.Z. Kim, C.W. Lynn, S.C. Simon, A.A. Klishin, K.P. Szymula, P. Srivastava, L.C. Bassett, P. Zurn, J.D. Dworkin, and D.S. Bassett\\
-    <a href="https://arxiv.org/abs/2112.09047" target="_blank">PDF</a>
 
 **2022**
 
+- **Citation inequity and gendered citation practices in contemporary physics**\\
+    **E.G. Teich**, J.Z. Kim, C.W. Lynn, S.C. Simon, A.A. Klishin, K.P. Szymula, P. Srivastava, L.C. Bassett, P. Zurn, J.D. Dworkin, and D.S. Bassett\\
+    *Nature Physics*\\
+    <a href="https://www.nature.com/articles/s41567-022-01770-1" target="_blank">Link</a>
+    <a href="https://arxiv.org/abs/2112.09047" target="_blank">PDF</a>
+
 - **Tuning assembly structures of hard shapes in confinement via interface curvature**\\
-    R. Skye, **E.G. Teich**, and J. Dschemuchadse\\
+    R. Skye, **E.G. Teich**, and J. Dshemuchadse\\
     *Soft Matter*\\
     <a href="https://pubs.rsc.org/en/content/articlelanding/2022/sm/d2sm00545j" target="_blank">Link</a>
+
+- **Supporting academic equity in physics through citation diversity**\\
+    P. Zurn, **E.G. Teich**, S.C. Simon, J.Z. Kim, and D.S Bassett\\
+    *Communications Physics*\\
+    <a href="https://www.nature.com/articles/s42005-022-00999-9" target="_blank">Link</a>
 
 - **Shape and interaction decoupling for colloidal preassembly**\\
     L. Baldauf, **E.G. Teich**, G. van Anders, P. Schall, and L. Rossi\\
