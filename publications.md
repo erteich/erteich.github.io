@@ -5,6 +5,7 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6xjwAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
+
 **2023**
 
 - **Not yet defect-free: the current landscape for women in computational materials research**\\
