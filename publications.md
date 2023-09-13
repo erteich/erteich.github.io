@@ -5,6 +5,12 @@ title: Publications
 
 You can also browse my <a href="https://scholar.google.co.in/citations?user=-YQ6xjwAAAAJ&hl=en" target="_blank">Google Scholar profile</a>.
 <br />
+**2023**
+
+- **Not yet defect-free: the current landscape for women in computational materials research**\\
+    L.B. Partay, **E.G. Teich**, and R.K. Cersonsky\\
+    *njp Computational Materials*\\
+    <a href="https://www.nature.com/articles/s41524-023-01054-z" target="_blank">Link</a>
 
 **2022**
 
